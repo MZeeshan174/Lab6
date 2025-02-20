@@ -1,0 +1,5 @@
+List groceries = new List { "Milk", "Bread", "Eggs", "Apples", "Rice" }; 
+ Console.WriteLine("Grocery List:");
+ foreach (var item in groceries) { Console.WriteLine("- " + item);        } 
+
+

@@ -6,4 +6,5 @@ Console.WriteLine("- " + item);
 } 
 
 
+groceries.Add("Tomato, Potato");
 groceries.Add("stroberry, banana");
